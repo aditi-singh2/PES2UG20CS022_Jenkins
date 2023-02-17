@@ -17,7 +17,7 @@ stages{
   stage('Deploy') {
     steps{
       echo '---DEPLOYMENT SUCCESSFUL---'
-    
+    }
   }
 }
 post {
