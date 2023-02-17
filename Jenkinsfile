@@ -12,6 +12,7 @@ stages{
     steps{
        sh './PES2UG20CS022'
     }
+  }}
   }
 
   stage('Deploy') {
